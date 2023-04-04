@@ -18,20 +18,20 @@ way.</description>
   <category>Development</category>
   <needs-terminal/>
   <group released="2022-24-11" version="2.32.2">
-    <implementation arch="Darwin-x86_64" id="." main="https://github.com/direnv/direnv/releases/download/v2.32.2/direnv.darwin-amd64" released="2022-11-24" version="2.32.2"/>
-    <implementation arch="Windows-x86_64" id="." main="https://github.com/direnv/direnv/releases/download/v2.32.2/direnv.windows-amd64.exe" released="2022-11-24" version="2.32.2"/>
-    <implementation arch="Linux-x86_64" id="." main="https://github.com/direnv/direnv/releases/download/v2.32.2/direnv.linux-amd64" released="2022-11-24" version="2.32.2"/>
+    <implementation arch="Darwin-x86_64" id="." main="o/bins/v2.32.2/mac/amd64/direnv" released="2022-11-24" version="2.32.2"/>
+    <implementation arch="Windows-x86_64" id="." main="o/bins/v2.32.2/win/amd64/direnv.exe" released="2022-11-24" version="2.32.2"/>
+    <implementation arch="Linux-x86_64" id="." main="o/bins/v2.32.2/gnu/amd64/direnv" released="2022-11-24" version="2.32.2"/>
   </group>
 
 </interface>
 <!-- Base64 Signature
-iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQsAw0ACgkQJPsSVcwVyI2+/Qv/cNfy
-kPt+1cwlreLKofr8Xjwnny6YR01acbggLDExfDO+wRjK1o9j8Zd0XanA6l6chmVsCMJGHDT4gNY4
-7pE1mmeO10K7SBUCExhnfiRPNTccSnRwMqfqIR9EsY/MTGrUqc8qPRPLhUrYRRBeUYgweQbv9sjY
-9Omh69HonD0wDQWaWlw/nHeXKGHwqdkR3zULVCvQSdEmDQvCCk3zzsfXs1GsKy0NQREHCrVNFYBb
-Q1CApeuZlkkrHXd6JNOo2sPNeNk/VnDm7cl3fLynMD8EsEpkIeH3OsKbI3qCIiEVRONAWufo2Ax9
-hOf01s1/KAIJbi4BycgjdOk2nS4TGy1TDPT4Z0jhaqMhS+Kqgb8PhbyP4JinDqN0iWbYGoqyMNBB
-lSLc3Nb1+x+ojxlXElvVwmzY/DJIibpPCA/fxzifJ931QbvxmT1Pnm0zYocNZaVoBwYVHxf7Xm0S
-kTLtFA1gJJ7xLIrSFrgkrZyViSVp24ztwIF/NMK5OQcACYvGbFGD
+iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQsA7sACgkQJPsSVcwVyI2IuAv/YeTK
+ok/msTfx0uawKYxLnf1Vn7d2sV6otphQ6iI/OZeFDw8iBp5aZ4/BrDLNn3lUiR21w2nDQPIS0CWV
+WhcdJdp/qtEoE8iCK4Kmn1gwoj6Le01A+O056lETFA8MXpaXWe2LfFolGLXZgXF0MwV02Z/d+AFp
+Nbp/UVOYZXWN23J/ezyouXsTUUBeeU2BN601Afq4AejyyoSvwog0C0vLQP+3ywKnE1ujbze+LgYE
+WAiOyt6YyzCGOnVMRTQABNBxAChYjq8de/IKYjaEGQTVEj3u9hGOt9KLI8H/+JU4zrh2mfjkmcv8
+QYzqTUpZGZt/reDXTiYikrM9eO3/QSDwLZ6qsBCHbzJ00drbOavcoFeSkf8lm3m9+ISW/UmqZVAX
+eprXnU00yAjsXzeE5Yvz4HDydpbEmNtJVJLa2IMLfIXGTYM4faA+sV7RleWYp+cTF9VnMQeRFeto
+RRO4VN9XkRCvmVBII1wKgFUzEMgORtMvY7TlKri7aNz8t7KQu78j
 
 -->

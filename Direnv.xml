@@ -1,4 +1,5 @@
 <?xml version="1.0" ?>
+<?xml-stylesheet type='text/xsl' href='interface.xsl'?>
 <interface uri="https://raw.githubusercontent.com/ohmrun/0install_direnv/main/Direnv.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface" xmlns:compile="http://zero-install.sourceforge.net/2006/namespaces/0compile" xmlns:ns="http://zero-install.sourceforge.net/2006/namespaces/0compile" xmlns:release="http://zero-install.sourceforge.net/2007/namespaces/0release">
 
   <name>direnv</name>
@@ -23,3 +24,14 @@ way.</description>
   </group>
 
 </interface>
+<!-- Base64 Signature
+iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQsANgACgkQJPsSVcwVyI1nEwwAqPk2
+MKbkmGzZPtwkqcxrhwS+hpiw2wSuyvcbH51+YWeNAjw+hF6v+IO+LxCERQImYNIwXS8L724RjD6o
+fymODRFSidVfhklkd+IitQ+YIE5dBoRsI5+Vx244Fp5ePdhQolBhkxU4DiuRh3nbfTjdfuEzHh+S
+ct0SFe9XDe2myUHPkJs6Crml8Tn/H4bHNKbXb74Si99hnZ1AfUHbz8BHDfsVB2rx9k2eo11jhugz
+/h4+mvK9GRjKukzjIAhYlSYsJE1oIBLfi/ixv5ZlNR1f2om6pisWKsdhuQkycss1S9ED7yPXnsq3
+aUmhnAhZPAzgyQrWK6mnCztxa+ZIcyTV73aGgt4Frb6qrS5EFwn0kqJPqKp0weNOwHt/bZHeR/gK
+hP6tOLEtw2hcZXrT0KCVhqnXcw5H0CAJw/jQVBByZdj3MvsqFcw5rNKreJmTxS6C5Kkq3aUykraD
+vBhe/VO+03jk2pdBRMUTm73sxY90tQCslpT73leQCt35X5xmGyYk
+
+-->

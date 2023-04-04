@@ -1,5 +1,4 @@
 <?xml version="1.0" ?>
-<?xml-stylesheet type='text/xsl' href='interface.xsl'?>
 <interface uri="https://raw.githubusercontent.com/ohmrun/0install_direnv/main/Direnv.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface" xmlns:compile="http://zero-install.sourceforge.net/2006/namespaces/0compile" xmlns:ns="http://zero-install.sourceforge.net/2006/namespaces/0compile" xmlns:release="http://zero-install.sourceforge.net/2007/namespaces/0release">
 
   <name>direnv</name>
@@ -18,20 +17,9 @@ way.</description>
   <category>Development</category>
   <needs-terminal/>
   <group released="2022-24-11" version="2.32.2">
-    <implementation arch="Darwin-x86_64" id="./o/bins/v2.32.2/mac/amd64/direnv" main="o/bins/v2.32.2/mac/amd64/direnv" released="2022-11-24" version="2.3.2"/>
-    <implementation arch="Windows-x86_64" id="./o/bins/v2.32.2/win/amd64/direnv.exe" main="o/bins/v2.32.2/win/amd64/direnv.exe" released="2022-11-24" version="2.3.2"/>
-    <implementation arch="Linux-x86_64" id="./o/bins/v2.32.2/gnu/amd64/direnv" main="o/bins/v2.32.2/gnu/amd64/direnv" released="2022-11-24" version="2.32.2"/>
+    <implementation arch="Darwin-x86_64" id="./o/bins/v2.32.2/mac/amd64/direnv" main="https://github.com/direnv/direnv/releases/download/v2.32.2/direnv.darwin-amd64" released="2022-11-24" version="2.3.2"/>
+    <implementation arch="Windows-x86_64" id="./o/bins/v2.32.2/win/amd64/direnv.exe" main="https://github.com/direnv/direnv/releases/download/v2.32.2/direnv.windows-amd64.exe" released="2022-11-24" version="2.3.2"/>
+    <implementation arch="Linux-x86_64" id="./o/bins/v2.32.2/gnu/amd64/direnv" main="https://github.com/direnv/direnv/releases/download/v2.32.2/direnv.linux-amd64" released="2022-11-24" version="2.32.2"/>
   </group>
 
 </interface>
-<!-- Base64 Signature
-iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQr/hMACgkQJPsSVcwVyI3gHwv/XVpB
-qKVugQBA8qynxlvb2HArR53w64ETt1nN35UYlelRsnVNlf1FAFAwvR5APX6cm9mbR5dXJ8b07b5p
-DRRqI9N3Zlv6oIvUVJ0nwHRoRcxjkqCXQtmdzbI7kh3u9a6GRjbEQ2h4RjoDXqiSNPazudZtxmQM
-4dYWXbG88H2gB4jj3AQ2O2qmKVYvcwpF6rKBDmAXDClEWecb/hY116vT2dPvy5Om8xD+zpWZEHGe
-l/SWfcIFdqVV2gxuH28wmXhO0/ww5/e3p7F+9z8zt1SS9mWGeALntE6EpZsQEgPGEYm79C6oGf6o
-KotD8I0wx4VHa/ubaxDOYVS9Y5gMz2eRY3q4XVO0sBCnV4eaJ8UP9rnbkpqIa/2dGEXLeNOhSp5z
-uTdQA/WobLDKGjDG7i3tvcSpHdEexl7d9n9Xl89fxLHgDBdFZmlMVbjCX5SmwJY9jkpj6QENEEQW
-lrjfQ5UCslRKDnCPrWD2TkL5bnIKObPLInugGS2WPzyG5yEJ145N
-
--->

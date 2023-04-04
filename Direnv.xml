@@ -18,27 +18,19 @@ way.</description>
   <category>Development</category>
   <needs-terminal/>
   <group released="2022-24-11" version="2.32.2">
-    <implementation arch="Linux-x86_64" id="direnv.linux-amd64" released="2022-11-24" version="2.32.2">
-      <file dest="direnv" executable="true" href="https://github.com/direnv/direnv/releases/download/v2.32.2/direnv.linux-amd64" size="8796">
-      </file>
-    </implementation>
-    <implementation arch="Darwin-x86_64" id="direnv.darwin-amd64" released="2022-11-24" version="2.32.2">
-      <file dest="direnv" executable="true" href="https://github.com/direnv/direnv/releases/download/v2.32.2/direnv.darwin-amd64" size="8672"/>
-    </implementation>
+    <implementation arch="Linux-x86_64" id="./o/bins/v2.32.2/gnu/amd64" main="direnv" released="2022-11-24" version="2.32.2"/>
+    <implementation arch="Darwin-x86_64" id="./o/bins/v2.32.2/mac/amd64" main="direnv" released="2022-11-24" version="2.32.2"/>
+    <implementation arch="Windows-x86_64" id="./o/bins/v2.32.2/win/amd64" main="direnv.exe" released="2022-11-24" version="2.32.2"/>
   </group>
-  <group arch="Windows-x86_64" released="2022-11-24" version="2.32.2">
-    <implementation arch="Windows-x86_64" id="." main="o/bins/v2.32.2/win/amd64/direnv.exe" released="2022-11-24" version="2.32.2"/>
-  </group>
-
 </interface>
 <!-- Base64 Signature
-iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQsCqwACgkQJPsSVcwVyI376Qv+PDo2
-6IaedJ5l6s4k92wxl/6VfppxfXL6c/oLZ1yLsJcptQcTzqOS+2RcVhwjp88YKEX/N+9evzIXBljf
-IH6j37v44bX/OCeE5JdPz4cVB9lrfExmr8N+xuuDNXHJyzPoUC6WWj/WN6S7ozhE0Ed/WHDTU2Il
-Y8Ut8iIIaWM2Tp4sykQpaUkI2ffgbH8/RbMgbOMOudHOV8YSmEYEtImRm0aLD9uIdUzApZr91SWW
-IuYWBz6r5TDH8mtpCUqM5t8n6e9kxTPmPKJMLxsORpKqm+CJoyXD4W2G62T73wZRt58UqUTCuyZf
-MkjRSSGeLommHbZ1wRVeGBIimMgI5h9nyqqOgz3EWa/K2iIH12xr0L0q9Pety+nygqFYh7rCV2td
-CA0bZd2L1l4GbzdT8VQDP1Hd0LOHl3/1HTzy2Tgd8UKZbcQfyLFTq9QhJxMi8bbK553Lvt5uKnYz
-B+EtnKdCfeivNaH6EyEzTP2r9CLZhrhADIFs40OHIlI+LCpH2p5L
+iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQsLSoACgkQJPsSVcwVyI0bEwwAmYwZ
+SYiDTik7UuQQzLc6TcoA3mUKO5/NtdCMqnqd8jJNnw1zc7N4tpUj8Afhie9tPa8Q6t9cpfkeL5PW
+ljwcG20OFnTO8z3O23zxoIG3tov0GNgDawZK/DajFYop+pam3D0Lw9vBuSZf4YdGSMoO0oq5hK9E
+PWIws2CGTL6zkGB//2F8Qsscd2fQ2lIf3BtpV4QtCI5WNDKOVDABRvQnbuadW8Fng1bYoES0UIVO
+v4ZHYSZK837mXg1NPfkX8J0/kYJjMLtXN9W26UrcNVRVuM4cfex6ewi+mJOPWQs+LEfDpWwKaT9c
+oOhORnFzgT07UgSi8UQ02oc7nLxxK0e9IhRtnYd/ZGVHkSHjv5OP6LKqy3lLr2y44HgVOKAEm5YS
+G+dn8622raMT6m5D88BhKpB5F4qA5MGeD9jC/xFunHyKc2dy1Jj63euxh8sjHuwfQLcpBepFIU15
+5zJaC2zYjzq8YFEAyrnIKNQz7x+uIXEpjuTwag2diD/k8VA/Jsj1
 
 -->

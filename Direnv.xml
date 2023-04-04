@@ -18,19 +18,21 @@ way.</description>
   <category>Development</category>
   <needs-terminal/>
   <group released="2022-24-11" version="2.32.2">
-    <implementation arch="Linux-x86_64" id="./o/bins/v2.32.2/gnu/amd64" main="direnv" released="2022-11-24" version="2.32.2"/>
+    <implementation arch="Linux-x86_64" id="./o/bins/v2.32.2/gnu/amd64" main="./o/bins/v2.32.2/gnu/amd64/direnv" released="2022-11-24" version="2.32.2">
+    <file dest="direnv" executable="true" href="https://github.com/ohmrun/0install_direnv/raw/main/o/bins/v2.32.2/gnu/amd64/direnv" size="8988761"/> 
+    </implementation>
     <implementation arch="Darwin-x86_64" id="./o/bins/v2.32.2/mac/amd64" main="direnv" released="2022-11-24" version="2.32.2"/>
     <implementation arch="Windows-x86_64" id="./o/bins/v2.32.2/win/amd64" main="direnv.exe" released="2022-11-24" version="2.32.2"/>
   </group>
 </interface>
 <!-- Base64 Signature
-iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQsLSoACgkQJPsSVcwVyI0bEwwAmYwZ
-SYiDTik7UuQQzLc6TcoA3mUKO5/NtdCMqnqd8jJNnw1zc7N4tpUj8Afhie9tPa8Q6t9cpfkeL5PW
-ljwcG20OFnTO8z3O23zxoIG3tov0GNgDawZK/DajFYop+pam3D0Lw9vBuSZf4YdGSMoO0oq5hK9E
-PWIws2CGTL6zkGB//2F8Qsscd2fQ2lIf3BtpV4QtCI5WNDKOVDABRvQnbuadW8Fng1bYoES0UIVO
-v4ZHYSZK837mXg1NPfkX8J0/kYJjMLtXN9W26UrcNVRVuM4cfex6ewi+mJOPWQs+LEfDpWwKaT9c
-oOhORnFzgT07UgSi8UQ02oc7nLxxK0e9IhRtnYd/ZGVHkSHjv5OP6LKqy3lLr2y44HgVOKAEm5YS
-G+dn8622raMT6m5D88BhKpB5F4qA5MGeD9jC/xFunHyKc2dy1Jj63euxh8sjHuwfQLcpBepFIU15
-5zJaC2zYjzq8YFEAyrnIKNQz7x+uIXEpjuTwag2diD/k8VA/Jsj1
+iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQsL7QACgkQJPsSVcwVyI3zqgv/ew3t
+aqEJwcfnmDqIbjWMT/o/Dmlq3EPf88woAKEN0ve3pJ2FXbP+cEbpvp6u/ZFsP5aPsktHmAM1aimB
+TM5DElRNEILHY21k+JUOqNF1iGyLhJ5IIk+HdLFpj19vgNS8nMXWUq5IY+94fKtSAXe1nKuQ0EOM
+7LFlzKKcXkRC7sXU2G9R+M60CE6cV+8wkCq1Lm1y97FBv9eKD3QjZFlWGGg3gFir9b6aSy27zPbL
+mYFGF2B70CzQgbDmmrt2+VbBAjrdkljiz3Uwh9h8Nn20+zPE+sfPLjGBHp5lT3Yx36TS4s0mDmF2
+S6T53xoYnaYCEkE/spl05XlYd3z6SBTwCOkXY+jUTj+iTl7RfeYWiS6xd47ixhxIUwuNokYUVgX5
+rfsBF9Gnb9I8VLfzKU3xsIIfeYhHddnGYICrXtkPX+Ho+A2LRb1bI0LG0WQAyP2/NTy7Jf3NImKx
+Iw2feteLB6NtU601b56LjxcjQMza0iOr3DjTdVZJtxLGnRGBUsbR
 
 -->

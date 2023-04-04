@@ -17,11 +17,14 @@ It does some of the job of rvm, rbenv or virtualenv but in a language-agnostic
 way.</description>
   <category>Development</category>
   <needs-terminal/>
-  <group arch="Linux-x86_64" released="2022-24-11" version="2.32.2">
-    <implementation arch="Linux-x86_64" id="." main="o/bins/v2.32.2/gnu/amd64/direnv" released="2022-11-24" version="2.32.2"/>
-  </group>
-  <group arch="Darwin-x86_64" released="2022-11-24" version="2.32.2">
-    <implementation arch="Darwin-x86_64" id="." main="o/bins/v2.32.2/mac/amd64/direnv" released="2022-11-24" version="2.32.2"/>
+  <group released="2022-24-11" version="2.32.2">
+    <implementation arch="Linux-x86_64" id="direnv.linux-amd64" released="2022-11-24" version="2.32.2">
+      <file dest="direnv" executable="true" href="https://github.com/direnv/direnv/releases/download/v2.32.2/direnv.linux-amd64" size="8796">
+      </file>
+    </implementation>
+    <implementation arch="Darwin-x86_64" id="direnv.darwin-amd64" released="2022-11-24" version="2.32.2">
+      <file dest="direnv" executable="true" href="https://github.com/direnv/direnv/releases/download/v2.32.2/direnv.darwin-amd64" size="8672"/>
+    </implementation>
   </group>
   <group arch="Windows-x86_64" released="2022-11-24" version="2.32.2">
     <implementation arch="Windows-x86_64" id="." main="o/bins/v2.32.2/win/amd64/direnv.exe" released="2022-11-24" version="2.32.2"/>
@@ -29,13 +32,13 @@ way.</description>
 
 </interface>
 <!-- Base64 Signature
-iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQsBTkACgkQJPsSVcwVyI33Vwv/b/yG
-RvMwDRFpPXjCw8oTyplaB1b6lyCah0SFnrY/DYXJSGuky+ij51/KzRpy2amFXLYNtEqvOlHa4Qp+
-JyVbt9cgPugOQrIduGKV+0yx9aHF57bYX2r1biMDFQnIEJhOiWmx7qSnrmoaoq154C3qxlhlD/xu
-eUASXVinRJ0NSVav9w9TC6Abz2UV2sBTOzRrJvBRimhmSpDpt0b1qkVCDqpP2kwv3Udmfp53FuNv
-BX2N+g6h90l98an3bX2lJU+29hvcX05xSiz3+P6ZPdVGYTkbYBSzkIS7uwHqpRInZdOY6dSlbC/T
-qN/dA0qZrgiFAcp8z3UQtXDB1oWNN0FnqRxfoiFpFBKCxQSkrdhBZAKU+plu3TqZfTliiSzDWG3L
-OQRdALxuo1ZGVYL5VQdwE4lOmHL4yAD0uwylqpNTxZssBxVs6U1WJ01UqTCD7f7u+AYLAeGTM1Su
-odXEIL8kxFnu2Zpzl50kAWNYn+LoMYQp2HRAmyc2wJkebSHZK952
+iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQsCqwACgkQJPsSVcwVyI376Qv+PDo2
+6IaedJ5l6s4k92wxl/6VfppxfXL6c/oLZ1yLsJcptQcTzqOS+2RcVhwjp88YKEX/N+9evzIXBljf
+IH6j37v44bX/OCeE5JdPz4cVB9lrfExmr8N+xuuDNXHJyzPoUC6WWj/WN6S7ozhE0Ed/WHDTU2Il
+Y8Ut8iIIaWM2Tp4sykQpaUkI2ffgbH8/RbMgbOMOudHOV8YSmEYEtImRm0aLD9uIdUzApZr91SWW
+IuYWBz6r5TDH8mtpCUqM5t8n6e9kxTPmPKJMLxsORpKqm+CJoyXD4W2G62T73wZRt58UqUTCuyZf
+MkjRSSGeLommHbZ1wRVeGBIimMgI5h9nyqqOgz3EWa/K2iIH12xr0L0q9Pety+nygqFYh7rCV2td
+CA0bZd2L1l4GbzdT8VQDP1Hd0LOHl3/1HTzy2Tgd8UKZbcQfyLFTq9QhJxMi8bbK553Lvt5uKnYz
+B+EtnKdCfeivNaH6EyEzTP2r9CLZhrhADIFs40OHIlI+LCpH2p5L
 
 -->

@@ -18,8 +18,9 @@ way.</description>
   <category>Development</category>
   <needs-terminal/>
   <group released="2022-24-11" version="2.32.2">
-    <manifest-digest sha256="43e7200746d526aec6f37e689dcced23d5e42cfac7022e301d6b37420d625663"/>
+    
     <implementation arch="Linux-x86_64" id="./o/bins/v2.32.2/gnu/amd64" main="./o/bins/v2.32.2/gnu/amd64/direnv" released="2022-11-24" version="2.32.2">
+    <manifest-digest sha256="43e7200746d526aec6f37e689dcced23d5e42cfac7022e301d6b37420d625663"/>
     <file dest="direnv" executable="true" href="https://github.com/ohmrun/0install_direnv/raw/main/o/bins/v2.32.2/gnu/amd64/direnv" size="8988761"/> 
     </implementation>
     <implementation arch="Darwin-x86_64" id="./o/bins/v2.32.2/mac/amd64" main="direnv" released="2022-11-24" version="2.32.2"/>
@@ -27,13 +28,13 @@ way.</description>
   </group>
 </interface>
 <!-- Base64 Signature
-iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQsMNwACgkQJPsSVcwVyI3sVAv/Z60t
-A6mR4enbkemmnMh4Xiilq4x62oV+f/lddXuW6w4u5wEpjZ0n5lubqrzsLRmTRoJYhzMJ72m52VGN
-SVy6+/UAt74Ag8l3nf0FQQq257GgiaKYcn6o13moNT/pVVWKGAhcWJ7TLHYYzHgPDXyH4BkkK7xf
-X1dRGbuObs7p3BkmZRtOQB5mu1CLpGpU04OV52UMB1lZqKqYbwWuFwxTdEQRfg5yQg0YIvg+814c
-CNR+nogDLQUER1It6m7y5BilinqIN3cJK1ubZIxruEN32cghvmxmwv5ltYaOMeOiXNVrdWHF4HgB
-KEju8c9WEGmKADRLRQ8PghIzYcEpJiKF7vhq4AnbWHy+BAq7y8F9qUkgziN7gf11EaITkf57Jzy7
-mVAyErQZ8SXU7ZO+pcVewVCgd5DIViidnBKeFL/+En1yum3fhL6zUqBqfR+Pu7prB2TqGYuRPOi/
-3yiPpC+ne85xXFj2NTICARFoMU5/RoO8uyiM2/Yl6lGIVMoCYvxP
+iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQsMSgACgkQJPsSVcwVyI2TOwv+M/uY
+bWwapn18YjfdBpHyJoUujjUmWV2bu+7pEjt9UU63lnlvo8ZEPsK5AcxYOeQUm72a11ECfiQdR6gT
+10d32fI2qYMv31s10LbsxvwPc+Cq4EjoK3e2GtZIrp74eCQneHI56uKzi3Z8ut1DT4RDs+s1+Ag5
+Tg0BSxvS/6WhlYuQYjEqn6SS9eKJybxqiKVAxYOxHZWukEqymkJjXruYzYFejmjmd8DW/fZTh7kY
+jsldyDXpzTUluTuHb1s+Bqv9r1d8g4cYCVCeNEDHHFvbaKwfifn2bjRrO9gYcgJjYeeKMoQzhpnO
+BKiSzx3T135vI8UtU1IJqkRVTToG3F6cyCxgc9qpD7vm3709FTfytCSz4WRnwPVpHVtvd4jgm8PT
+2IVfjdlMb7yTr0gykqzRJYjGLkO/hfkO3O4TaJgYLPsYxdbGw3izhmVtXR+wU7jcro6BTwwJU9mh
+7Yc/neTv3AfI9kaL3pw/AdsbWV4ceHOUwC4XbKYpGfre6pUruSkz
 
 -->

@@ -18,6 +18,7 @@ way.</description>
   <category>Development</category>
   <needs-terminal/>
   <group released="2022-24-11" version="2.32.2">
+    <manifest-digest sha256="43e7200746d526aec6f37e689dcced23d5e42cfac7022e301d6b37420d625663"/>
     <implementation arch="Linux-x86_64" id="./o/bins/v2.32.2/gnu/amd64" main="./o/bins/v2.32.2/gnu/amd64/direnv" released="2022-11-24" version="2.32.2">
     <file dest="direnv" executable="true" href="https://github.com/ohmrun/0install_direnv/raw/main/o/bins/v2.32.2/gnu/amd64/direnv" size="8988761"/> 
     </implementation>
@@ -26,13 +27,13 @@ way.</description>
   </group>
 </interface>
 <!-- Base64 Signature
-iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQsL7QACgkQJPsSVcwVyI3zqgv/ew3t
-aqEJwcfnmDqIbjWMT/o/Dmlq3EPf88woAKEN0ve3pJ2FXbP+cEbpvp6u/ZFsP5aPsktHmAM1aimB
-TM5DElRNEILHY21k+JUOqNF1iGyLhJ5IIk+HdLFpj19vgNS8nMXWUq5IY+94fKtSAXe1nKuQ0EOM
-7LFlzKKcXkRC7sXU2G9R+M60CE6cV+8wkCq1Lm1y97FBv9eKD3QjZFlWGGg3gFir9b6aSy27zPbL
-mYFGF2B70CzQgbDmmrt2+VbBAjrdkljiz3Uwh9h8Nn20+zPE+sfPLjGBHp5lT3Yx36TS4s0mDmF2
-S6T53xoYnaYCEkE/spl05XlYd3z6SBTwCOkXY+jUTj+iTl7RfeYWiS6xd47ixhxIUwuNokYUVgX5
-rfsBF9Gnb9I8VLfzKU3xsIIfeYhHddnGYICrXtkPX+Ho+A2LRb1bI0LG0WQAyP2/NTy7Jf3NImKx
-Iw2feteLB6NtU601b56LjxcjQMza0iOr3DjTdVZJtxLGnRGBUsbR
+iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQsMNwACgkQJPsSVcwVyI3sVAv/Z60t
+A6mR4enbkemmnMh4Xiilq4x62oV+f/lddXuW6w4u5wEpjZ0n5lubqrzsLRmTRoJYhzMJ72m52VGN
+SVy6+/UAt74Ag8l3nf0FQQq257GgiaKYcn6o13moNT/pVVWKGAhcWJ7TLHYYzHgPDXyH4BkkK7xf
+X1dRGbuObs7p3BkmZRtOQB5mu1CLpGpU04OV52UMB1lZqKqYbwWuFwxTdEQRfg5yQg0YIvg+814c
+CNR+nogDLQUER1It6m7y5BilinqIN3cJK1ubZIxruEN32cghvmxmwv5ltYaOMeOiXNVrdWHF4HgB
+KEju8c9WEGmKADRLRQ8PghIzYcEpJiKF7vhq4AnbWHy+BAq7y8F9qUkgziN7gf11EaITkf57Jzy7
+mVAyErQZ8SXU7ZO+pcVewVCgd5DIViidnBKeFL/+En1yum3fhL6zUqBqfR+Pu7prB2TqGYuRPOi/
+3yiPpC+ne85xXFj2NTICARFoMU5/RoO8uyiM2/Yl6lGIVMoCYvxP
 
 -->

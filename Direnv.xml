@@ -20,18 +20,18 @@ way.</description>
   <group released="2022-24-11" version="2.32.2">
     <implementation arch="Darwin-x86_64" id="./o/bins/v2.32.2/mac/amd64/direnv" main="o/bins/v2.32.2/mac/amd64/direnv" released="2022-11-24" version="2.3.2"/>
     <implementation arch="Windows-x86_64" id="./o/bins/v2.32.2/win/amd64/direnv.exe" main="o/bins/v2.32.2/win/amd64/direnv.exe" released="2022-11-24" version="2.3.2"/>
-    <implementation arch="Linux-x86_64" id="./o/bins/v2.32.2/gnu/amd64/direnv" main="o/bins/v2.32.2/gnu/amd64/direnv" version="2.32.2"/>
+    <implementation arch="Linux-x86_64" id="./o/bins/v2.32.2/gnu/amd64/direnv" main="o/bins/v2.32.2/gnu/amd64/direnv" released="2022-11-24" version="2.32.2"/>
   </group>
 
 </interface>
 <!-- Base64 Signature
-iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQr/dIACgkQJPsSVcwVyI1khQv/aPji
-314EEHd69bHFBTZsx1kWhCTUSDaG2ZsKwiHeLCUKdUNVlNS490hgKttNlgOg5pYqv6grVACaoyH5
-dpHAQW92yOj0SWV4e1ZLf3sj6XBfhx9MBF3MJSG4RtFOPZ1WrW7Hq5WLEhRi6vcuRI6ayyxd8gv8
-anHVlnmy7Bc+Uf8+5MS+uNBf4o+AeAM6B51f8owIMCwUgqR8Isn4L7zMsYr5lnO8LRyReRXPzm+k
-Y2iROwAwJY4mTDzeRcPfAxepWt6bKy+GEbjshIJuqLgFPIQzm56cIzjpKoR+HADsrdQIsruLdhdX
-WwQX8KNgAtIB1QrGe69Tl5+hC3Itg49eAEcR+eZzgQGTTfn0lvxUBMY2WJfKPuKZWULmUUB35mam
-MhwLRrYoh+ZxLO9CCUmATaN7oWFTz/58GNTByBxpfUVgyVPqlgkhpqaaVbbNYSOUHswlnBlbbp1v
-0ko59cBfAyGYkvXbZS/QFoL0E+RKLfb35TKx8Ccas4CQihbfqht9
+iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQr/hMACgkQJPsSVcwVyI3gHwv/XVpB
+qKVugQBA8qynxlvb2HArR53w64ETt1nN35UYlelRsnVNlf1FAFAwvR5APX6cm9mbR5dXJ8b07b5p
+DRRqI9N3Zlv6oIvUVJ0nwHRoRcxjkqCXQtmdzbI7kh3u9a6GRjbEQ2h4RjoDXqiSNPazudZtxmQM
+4dYWXbG88H2gB4jj3AQ2O2qmKVYvcwpF6rKBDmAXDClEWecb/hY116vT2dPvy5Om8xD+zpWZEHGe
+l/SWfcIFdqVV2gxuH28wmXhO0/ww5/e3p7F+9z8zt1SS9mWGeALntE6EpZsQEgPGEYm79C6oGf6o
+KotD8I0wx4VHa/ubaxDOYVS9Y5gMz2eRY3q4XVO0sBCnV4eaJ8UP9rnbkpqIa/2dGEXLeNOhSp5z
+uTdQA/WobLDKGjDG7i3tvcSpHdEexl7d9n9Xl89fxLHgDBdFZmlMVbjCX5SmwJY9jkpj6QENEEQW
+lrjfQ5UCslRKDnCPrWD2TkL5bnIKObPLInugGS2WPzyG5yEJ145N
 
 -->

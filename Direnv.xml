@@ -5,7 +5,6 @@
   <name>direnv</name>
   <summary>Unclutter your .profile</summary>
   <homepage>http://direnv.net/</homepage>
-  <publish mode="third-party" xmlns="http://gfxmonk.net/dist/0install"/>
   <description>
 direnv is a shell extension that loads different environment variables depending
 on your path.
@@ -18,20 +17,21 @@ It does some of the job of rvm, rbenv or virtualenv but in a language-agnostic
 way.</description>
   <category>Development</category>
   <needs-terminal/>
-  <group released="2022-24-11" version="2.32.2"/>
-  <implementation arch="Linux-x86_64" id="./o/bins/v2.32.2/gnu/amd64/direnv" main="o/bins/v2.32.2/gnu/amd64/direnv" version="2.32.2"/>
-  <implementation arch="Darwin-x86_64" id="./o/bins/v2.32.2/mac/amd64/direnv" main="o/bins/v2.32.2/mac/amd64/direnv" released="2022-11-24" version="2.3.2"/>
-  <implementation arch="Windows-x86_64" id="./o/bins/v2.32.2/win/amd64/direnv.exe" main="o/bins/v2.32.2/win/amd64/direnv.exe" released="2022-11-24" version="2.3.2"/>
+  <group released="2022-24-11" version="2.32.2">
+    <implementation arch="Darwin-x86_64" id="./o/bins/v2.32.2/mac/amd64/direnv" main="o/bins/v2.32.2/mac/amd64/direnv" released="2022-11-24" version="2.3.2"/>
+    <implementation arch="Windows-x86_64" id="./o/bins/v2.32.2/win/amd64/direnv.exe" main="o/bins/v2.32.2/win/amd64/direnv.exe" released="2022-11-24" version="2.3.2"/>
+    <implementation arch="Linux-x86_64" id="./o/bins/v2.32.2/gnu/amd64/direnv" main="o/bins/v2.32.2/gnu/amd64/direnv" version="2.32.2"/>
+  </group>
 
 </interface>
 <!-- Base64 Signature
-iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQr/F4ACgkQJPsSVcwVyI10TQv+OjFQ
-yBaOr9dVIvSIMx2nVAKFLrOtk4qBxztEkMKmjhSsz/FJp22955Fn/RHhLzqhAKtoGcZ5Ax8+syg1
-Ga51JlGqyMDuFP22w++Ehsac/CqPdQ2Vn/k9jgcLrkDIVTEJkfTB5PtJvKoRH2mXOn0F8IwYdPb+
-uM6/hvL8qX9HGD+MWa7eclZrv6XYYbslDnbR+lUzBVmJYRLCp/ILSI5V2y9ejNpz9iEovgL23hqb
-kTOED2XL5Ie1QVNxgzCn0wtdzyQULvoiCC4r6pYdjk4NEFknoJWE0qglPAcVNSaRqazQy02l25hM
-/o5rbT189hOymA0FxKzrU5MIbtJq+Gh4iadfyZNqI3Aws/uNC6iOQGAHqSg8iON58K4Nn2exnas5
-RfEI3BSK2HYNtTEMsz6tepJoRBCoi51U/ZOMoKqshlhLfUdWPnrj2w+iPk92ocS3oFmZcfWYGVpJ
-G3P22C2tTva40mjTm0E4mj6rJbuC75X19yyOJoFQClykR0wGH6lK
+iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQr/dIACgkQJPsSVcwVyI1khQv/aPji
+314EEHd69bHFBTZsx1kWhCTUSDaG2ZsKwiHeLCUKdUNVlNS490hgKttNlgOg5pYqv6grVACaoyH5
+dpHAQW92yOj0SWV4e1ZLf3sj6XBfhx9MBF3MJSG4RtFOPZ1WrW7Hq5WLEhRi6vcuRI6ayyxd8gv8
+anHVlnmy7Bc+Uf8+5MS+uNBf4o+AeAM6B51f8owIMCwUgqR8Isn4L7zMsYr5lnO8LRyReRXPzm+k
+Y2iROwAwJY4mTDzeRcPfAxepWt6bKy+GEbjshIJuqLgFPIQzm56cIzjpKoR+HADsrdQIsruLdhdX
+WwQX8KNgAtIB1QrGe69Tl5+hC3Itg49eAEcR+eZzgQGTTfn0lvxUBMY2WJfKPuKZWULmUUB35mam
+MhwLRrYoh+ZxLO9CCUmATaN7oWFTz/58GNTByBxpfUVgyVPqlgkhpqaaVbbNYSOUHswlnBlbbp1v
+0ko59cBfAyGYkvXbZS/QFoL0E+RKLfb35TKx8Ccas4CQihbfqht9
 
 -->

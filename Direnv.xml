@@ -19,8 +19,8 @@ way.</description>
   <needs-terminal/>
   <group released="2022-24-11" version="2.32.2">
     
-    <implementation arch="Linux-x86_64" id="./o/bins/v2.32.2/gnu/amd64" main="./o/bins/v2.32.2/gnu/amd64/direnv" released="2022-11-24" version="2.32.2">
-    <manifest-digest sha256="43e7200746d526aec6f37e689dcced23d5e42cfac7022e301d6b37420d625663"/>
+    <implementation arch="Linux-x86_64" id="./o/bins/v2.32.2/gnu/amd64" main="direnv.linux-amd64" released="2022-11-24" version="2.32.2">
+    <manifest-digest sha256="dc34dd85348b8d14502655cf0bab5c9dc7d84f2b03123d35b4133a7ba1017c61"/>
     <file dest="direnv" executable="true" href="https://github.com/ohmrun/0install_direnv/raw/main/o/bins/v2.32.2/gnu/amd64/direnv" size="8988761"/> 
     </implementation>
     <implementation arch="Darwin-x86_64" id="./o/bins/v2.32.2/mac/amd64" main="direnv" released="2022-11-24" version="2.32.2"/>
@@ -28,13 +28,13 @@ way.</description>
   </group>
 </interface>
 <!-- Base64 Signature
-iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQsMSgACgkQJPsSVcwVyI2TOwv+M/uY
-bWwapn18YjfdBpHyJoUujjUmWV2bu+7pEjt9UU63lnlvo8ZEPsK5AcxYOeQUm72a11ECfiQdR6gT
-10d32fI2qYMv31s10LbsxvwPc+Cq4EjoK3e2GtZIrp74eCQneHI56uKzi3Z8ut1DT4RDs+s1+Ag5
-Tg0BSxvS/6WhlYuQYjEqn6SS9eKJybxqiKVAxYOxHZWukEqymkJjXruYzYFejmjmd8DW/fZTh7kY
-jsldyDXpzTUluTuHb1s+Bqv9r1d8g4cYCVCeNEDHHFvbaKwfifn2bjRrO9gYcgJjYeeKMoQzhpnO
-BKiSzx3T135vI8UtU1IJqkRVTToG3F6cyCxgc9qpD7vm3709FTfytCSz4WRnwPVpHVtvd4jgm8PT
-2IVfjdlMb7yTr0gykqzRJYjGLkO/hfkO3O4TaJgYLPsYxdbGw3izhmVtXR+wU7jcro6BTwwJU9mh
-7Yc/neTv3AfI9kaL3pw/AdsbWV4ceHOUwC4XbKYpGfre6pUruSkz
+iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQtGc8ACgkQJPsSVcwVyI2ZegwAl010
+DwuWvIo1XvcKdT1bJ0tZ0JgNqQPQ0KgFiaC+DxYzB9ISYxD/9e7RaXmUe1/Z95IwiCR2AB7yFmVz
+JnB+SRRBmcIcIiWdknhA8tmQix3xwBjYHGtVmSvaPVqoc/oSK/YuSSeXvl/ZferdMEi8bqh334qr
+aFCLWxRlsaMRfK8LyiXkm4xg/VlR0Kwzw50AXlExizmGa1wh/58tS5iQpV+7cFIJBAylqmALaaZZ
+Jgh2MdYU2SB4zHgVVdJ1sXdJbUJdg8j37eoheZCrAQIiTrOX4IJGSN4erWTJlZBrbMNvtkH+8E8s
+oqZTCE67IkVOd1wSsawmzeBo6Fg13jyKdGxrsiWWN+jkihzKyuxgjkEJ4fK4wGWaawUNXuEUBkt0
+nCNjmb83RrBA8VZse6iNea23cA0pPiG4NW+L3edtUmZ0NwnRtuChB78FtnC/VjJszm7ms1Ea4qFJ
+fX6Ts/JdNTVNrBsw3kuCcJR2BWNrw6fNo7/nZ/aXB4bp79tlVpc7
 
 -->

@@ -18,8 +18,8 @@ way.</description>
   <category>Development</category>
   <needs-terminal/>
   <group released="2022-11-24" version="2.32.2">    
-    <implementation arch="Linux-x86_64" id="f6c285b6cba7efd56c78ab780116a2dca9ce3b38" main="direnv.linux-amd64">
-    <manifest-digest sha1new="f6c285b6cba7efd56c78ab780116a2dca9ce3b38"/>
+    <implementation arch="Linux-x86_64" id="sha1new=da0c342025f884fc2a38bb427f92c2aafa8d48e4" main="direnv.linux-amd64">
+    <manifest-digest sha1new="da0c342025f884fc2a38bb427f92c2aafa8d48e4"/>
     <file dest="direnv.linux-amd64" executable="true" href="https://github.com/direnv/direnv/releases/download/v2.32.2/direnv.linux-amd64" size="8988761"/> 
     </implementation>
   </group>

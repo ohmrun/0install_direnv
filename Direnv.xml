@@ -17,24 +17,10 @@ It does some of the job of rvm, rbenv or virtualenv but in a language-agnostic
 way.</description>
   <category>Development</category>
   <needs-terminal/>
-  <group released="2022-24-11" version="2.32.2">
-    
-    <implementation arch="Linux-x86_64" id="./o/bins/v2.32.2/gnu/amd64" main="direnv.linux-amd64" released="2022-11-24" version="2.32.2">
-    <manifest-digest sha256="dc34dd85348b8d14502655cf0bab5c9dc7d84f2b03123d35b4133a7ba1017c61"/>
-    <file dest="direnv" executable="true" href="https://github.com/ohmrun/0install_direnv/raw/main/o/bins/v2.32.2/gnu/amd64/direnv" size="8988761"/> 
+  <group released="2022-24-11" version="2.32.2">    
+    <implementation arch="Linux-x86_64" id="f6c285b6cba7efd56c78ab780116a2dca9ce3b38" main="direnv.linux-amd64" released="2022-11-24" version="2.32.2">
+    <manifest-digest sha1new="f6c285b6cba7efd56c78ab780116a2dca9ce3b38"/>
+    <file dest="direnv.linux-amd64" executable="true" href="https://github.com/direnv/direnv/releases/download/v2.32.2/direnv.linux-amd64" size="8988761"/> 
     </implementation>
-    <implementation arch="Darwin-x86_64" id="./o/bins/v2.32.2/mac/amd64" main="direnv" released="2022-11-24" version="2.32.2"/>
-    <implementation arch="Windows-x86_64" id="./o/bins/v2.32.2/win/amd64" main="direnv.exe" released="2022-11-24" version="2.32.2"/>
   </group>
 </interface>
-<!-- Base64 Signature
-iQGzBAABCgAdFiEETWoPBduDNgNeBnm0JPsSVcwVyI0FAmQtGc8ACgkQJPsSVcwVyI2ZegwAl010
-DwuWvIo1XvcKdT1bJ0tZ0JgNqQPQ0KgFiaC+DxYzB9ISYxD/9e7RaXmUe1/Z95IwiCR2AB7yFmVz
-JnB+SRRBmcIcIiWdknhA8tmQix3xwBjYHGtVmSvaPVqoc/oSK/YuSSeXvl/ZferdMEi8bqh334qr
-aFCLWxRlsaMRfK8LyiXkm4xg/VlR0Kwzw50AXlExizmGa1wh/58tS5iQpV+7cFIJBAylqmALaaZZ
-Jgh2MdYU2SB4zHgVVdJ1sXdJbUJdg8j37eoheZCrAQIiTrOX4IJGSN4erWTJlZBrbMNvtkH+8E8s
-oqZTCE67IkVOd1wSsawmzeBo6Fg13jyKdGxrsiWWN+jkihzKyuxgjkEJ4fK4wGWaawUNXuEUBkt0
-nCNjmb83RrBA8VZse6iNea23cA0pPiG4NW+L3edtUmZ0NwnRtuChB78FtnC/VjJszm7ms1Ea4qFJ
-fX6Ts/JdNTVNrBsw3kuCcJR2BWNrw6fNo7/nZ/aXB4bp79tlVpc7
-
--->
